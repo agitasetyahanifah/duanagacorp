@@ -1,0 +1,94 @@
+.bg-bronze {
+  background-color: #cd7f31;
+}
+
+.bg-silver {
+  background-color: #aaa9ad;
+}
+
+.bg-gold {
+  background-color: #d8b807;
+}
+
+.bg-platinum {
+  background-color: #2b3e50;
+}
+
+.bg-gradient-bronze {
+  background: linear-gradient(271deg, #cd7f31 36.79%, #fff 97.22%);
+}
+
+.bg-gradient-silver {
+  background: linear-gradient(271deg, #aaa9ad 36.79%, #fff 97.22%);
+}
+
+.bg-gradient-gold {
+  background: linear-gradient(271deg, #d8b807 36.79%, #fff 97.22%);
+}
+
+.bg-gradient-platinum {
+  background: linear-gradient(271deg, #2b3e50 36.79%, #fff 97.22%);
+}
+
+.bg-gradient-bronze-reverse {
+  background: linear-gradient(271deg, #fff 11%, #cd7f31 89%);
+}
+
+.bg-gradient-silver-reverse {
+  background: linear-gradient(271deg, #fff 11%, #aaa9ad 89%);
+}
+
+.bg-gradient-gold-reverse {
+  background: linear-gradient(271deg, #fff 11%, #d8b807 89%);
+}
+
+.bg-gradient-platinum-reverse {
+  background: linear-gradient(271deg, #fff 11%, #2b3e50 89%);
+}
+
+.text-bronze {
+  color: #cd7f31;
+}
+
+.text-silver {
+  color: #aaa9ad;
+}
+
+.text-gold {
+  color: #d8b807;
+}
+
+.text-platinum {
+  color: #2b3e50;
+}
+
+.dropdown-content.scale-0 {
+  transform: scale(0);
+  display: none;
+}
+
+.dropdown-content.scale-100 {
+  transform: scale(1);
+}
+
+#chartContainer {
+  position: absolute;
+  height: 200px;
+  bottom: -60px;
+}
+
+.chartContainer {
+  position: absolute;
+  height: 200px;
+  bottom: -60px;
+}
+
+.gaugeChart {
+  height: 180px !important;
+  width: 180px !important;
+}
+
+#gaugeChart {
+  height: 180px !important;
+  width: 180px !important;
+}
